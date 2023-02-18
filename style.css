@@ -1,0 +1,31 @@
+body {
+    background-color: #d4e1ef;
+    padding: 50px;
+}
+.qr-card{
+    background-color: white;
+    border: 1px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    min-width: 250px;
+    max-width: 250px;
+    padding: 20px;
+    margin: 0 auto;
+}
+.qr-card h2, .qr-card p {
+    text-align: center;
+}
+.qr-card p{
+    color: grey;
+}
+.qr-card img{
+    border-radius: 10px;
+}
+.attribution{
+    margin: 0 auto;
+  
+    margin-top: 50px;
+    max-width: 50%;
+
+}
